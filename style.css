@@ -138,12 +138,12 @@ section {
 .nav {
 	padding-top: 2%;
 }
-}
 .home {
 	padding-top: 2%'
 }
 .contactnav {
-	color: #00ff00
+	color: blue
+}
 }
 @media (min-width: 600px) {
 
